@@ -1,0 +1,19 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ / Eclipse / VSCode configs
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+bin/
+
+# Logs
+*.log
+
+# SO
+.DS_Store
+Thumbs.db
