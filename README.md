@@ -1,4 +1,4 @@
-# 🧪 Automatización Login OrangeHRM – proyectoPOM
+# Automatización Login OrangeHRM – proyectoPOM
 
 Este repositorio contiene la automatización del **login de OrangeHRM** utilizando **Selenium WebDriver**, **Cucumber BDD** y **Page Object Model (POM)**.
 
@@ -43,13 +43,13 @@ proyectoPOM/
 
 ## 🧩 Arquitectura POM + BDD
 
-### 🔹 Page Object Model (POM)
+### Page Object Model (POM)
 Centraliza:
 - Localizadores
 - Interacciones con la UI
 - Esperas explícitas (WebDriverWait)
 
-### 🔹 Cucumber BDD
+### Cucumber BDD
 - `Feature files` con lenguaje Gherkin  
 - `Step Definitions` en Java  
 - `TestRunner` con JUnit para lanzar pruebas  
@@ -94,6 +94,7 @@ Después de la ejecución se genera:
 target/cucumber-report.html
 
 Ábrelo en el navegador para ver el detalle completo de los escenarios.
+
 
 
 
