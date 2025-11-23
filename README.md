@@ -74,13 +74,13 @@ Entonces debería ver el mensaje de error "Invalid credentials"
 
 ---
 
-### 1️⃣ Clonar el repositorio
+### Clonar el repositorio
 
 ```
 git clone https://github.com/M4R14-N3l0/proyectoPOM.git
 ```
 
-## ▶️ Cómo ejecutar el proyecto
+### Cómo ejecutar el proyecto
 
 Ejecutar con Maven:
 ```
@@ -94,6 +94,7 @@ Después de la ejecución se genera:
 target/cucumber-report.html
 
 Ábrelo en el navegador para ver el detalle completo de los escenarios.
+
 
 
 
