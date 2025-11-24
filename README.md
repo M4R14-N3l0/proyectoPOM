@@ -4,6 +4,10 @@ Este repositorio contiene la automatización del **login de OrangeHRM** utilizan
 
 El objetivo es validar el correcto funcionamiento del login mediante escenarios de prueba automatizados.
 
+## Web bajo prueba
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
 ---
 
 ## 🚀 Tecnologías utilizadas
@@ -94,6 +98,7 @@ Después de la ejecución se genera:
 target/cucumber-report.html
 
 Ábrelo en el navegador para ver el detalle completo de los escenarios.
+
 
 
 
