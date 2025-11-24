@@ -88,7 +88,7 @@ git clone https://github.com/M4R14-N3l0/proyectoPOM.git
 
 Ejecutar con Maven:
 ```
-mvn clean test
+mvn test
 ```
 
 📊 Reporte de Cucumber
@@ -98,6 +98,7 @@ Después de la ejecución se genera:
 target/cucumber-report.html
 
 Ábrelo en el navegador para ver el detalle completo de los escenarios.
+
 
 
 
